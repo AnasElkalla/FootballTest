@@ -31,7 +31,7 @@ body {
   align-self: flex-end;
   display: inline-block;
   position: relative;
-  animation-name: ball;
+  /* animation-name: ball; */
   animation-duration: 2s;
   animation-iteration-count: 1;
   animation-timing-function: linear;
